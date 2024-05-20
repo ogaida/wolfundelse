@@ -1,0 +1,10 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Wolf und Else" # the name of your site, e.g. ACME Corp.
+host: 0.0.0.0
+port: 5000
+
+
+# image-handline inspired by https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
+
+# start with : bundle exec jekyll serve  --open-url --livereload

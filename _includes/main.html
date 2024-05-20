@@ -1,0 +1,28 @@
+<div id="main">
+    <div class="inner">
+        <h1>{{ page.title }}</h1>   
+        <sup>Inhalt aktualisiert am {% include date-german.html date=post.date %}</sup>
+
+        <section class="tiles">
+            {% for tile in page.tiles %}
+            <article class="{{ tile.style }}">
+                <span class="image">
+                    <img src="images/{{ tile.picture }}" alt="" />
+                </span>
+                <a href="{{ tile.href }}">
+                    <h2>{{ tile.title }}</h2>
+                    <div class="content">
+                        <p>{{ tile.content }}</p>
+                    </div>
+                </a>
+            </article>
+            {% endfor %}
+        </section>
+        <br><br>
+
+        {{ page.content | markdownify }}
+
+
+
+    </div>
+</div>
