@@ -7,6 +7,7 @@ tiles:
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
     content: der Kacheltext steht .
+    title: Vereinsbild
   - style:
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg

@@ -16,7 +16,6 @@ Start developing your Jekyll website. 123
 <span class="image main"><img src="images/pic13.jpg" alt="" /></span>
 
 
-
 Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123Start developing your Jekyll website. 123
 
 <section>
