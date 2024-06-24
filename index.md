@@ -7,14 +7,6 @@ tiles:
     picture: Vereinsbild.jpg
     href: index2.html
     content: der Kacheltext steht .
-  - style: style2
-    picture: pic02.jpg
-    href: generic.html
-    content: der Kacheltext steht .
-  - style: style2
-    picture: pic01.jpg
-    href: generic.html
-    content: der Kacheltext steht .
 ---
 
 ## Unsere erste Seite
