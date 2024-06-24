@@ -5,7 +5,7 @@ date: 21.05.2024
 tiles:
   - style:
     picture: Vereinsbild.jpg
-    href: index2.html
+    href: gallery.html
     content: der Kacheltext steht .
 ---
 
