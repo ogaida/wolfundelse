@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Willkommen
 date: 21.05.2024
 tiles:
