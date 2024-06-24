@@ -4,7 +4,7 @@ title: Willkommen
 date: 21.05.2024
 tiles:
   - style: style1
-    picture: pic01.jpg
+    picture: Vereinsbild.jpg
     href: index2.html
     content: der Kacheltext steht .
   - style: style2
