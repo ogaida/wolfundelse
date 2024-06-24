@@ -17,6 +17,6 @@ tiles:
     content: der Kacheltext steht .
 ---
 
-## Es geht los
+## Unsere erste Seite
 
 Hier kommt der Inhalt....
