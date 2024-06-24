@@ -1,5 +1,5 @@
 ---
-layout: phantom
+layout: default
 title: Über uns
 date: 23.06.2024
 ---

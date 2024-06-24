@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Happy Jekylling - generic
+title: under demo folder
 tiles:
   - style: style1
     picture: pic01.jpg
