@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Über uns
-date: 23.06.2024
+date: 24.06.2024
 ---
 
 ## Wer sind wir?
 
-<span class="image main"><img src="images/pic13.jpg" alt="" /></span>
+<span class="image main"><img src="images/Vereinsbild.jpg" alt="" /></span>
 
 Hier kommt der Inhalt ... bald.
