@@ -8,42 +8,16 @@ tiles:
     href: images/Vereinsbild.jpg
     content: der Kacheltext steht .
     title: Vereinsbild
-  - style:
+  - style: style3
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
     content: der Kacheltext steht .
-  - style:
+  - style: style4
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
     content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
-  - style:
-    picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
+
+
 ---
 
 ## Unsere erste Seite
