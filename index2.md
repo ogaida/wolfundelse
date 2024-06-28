@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Über uns
-date: 24.06.2024
+title: Vereinsleben
+date: 28.06.2024
 ---
 
-## Wer sind wir?
+## Wolf & Else e.V.
 
 <span class="image main"><img src="images/Vereinsbild.jpg" alt="" /></span>
 
-Hier kommt der Inhalt ... bald.
+Möchtest du die Arbeit des Vereins gern unterstützen?
+Wir freuen uns über eine Spende, eine Fördermitgliedschaft, eine reguläre Mitgliedschaft oder einfach über deine Schaffenskraft. 
+
+Mail an: wolfundelse@gmail.com
