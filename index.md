@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Willkommen
-date: 21.05.2024
+date: 28.06.2024
 tiles:
   - style: style2
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
+    content: Vereinsleben.
     title: Vereinsbild
   - style: style3
     picture: Vereinsbild.jpg
