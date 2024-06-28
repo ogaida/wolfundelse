@@ -13,7 +13,7 @@ tiles:
     href: images/Vereinsbild.jpg
     title: Veranstaltungen
     content:
-  - style: style7
+  - style: style1
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
     title: Vereinsleben
