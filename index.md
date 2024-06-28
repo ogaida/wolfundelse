@@ -6,16 +6,18 @@ tiles:
   - style: style2
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
-    content: Vereinsleben.
-    title: Vereinsbild
+    content:
+    title: Aktuelles
   - style: style3
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
+    title: Veranstaltungen
+    content:
   - style: style4
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
-    content: der Kacheltext steht .
+    title: Vereinsleben
+    content:
 
 
 ---
