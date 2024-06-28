@@ -22,6 +22,6 @@ tiles:
 
 ---
 
-## Unsere erste Seite
+## Unsere Seite
 
 Hier kommt der Inhalt....
