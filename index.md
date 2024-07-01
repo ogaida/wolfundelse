@@ -10,7 +10,8 @@ tiles:
     content: 
   - style: style3
     picture: Vereinsbild.jpg
-    href: images/Flohmarkt_Flyer_2024_1.PNG images/Flohmarkt_Flyer_2024_2.PNG
+    href: images/Flohmarkt_Flyer_2024_1.PNG 
+    href: images/Flohmarkt_Flyer_2024_2.PNG
     title: Veranstaltungen
     content:
   - style: style4
@@ -19,7 +20,7 @@ tiles:
     title: Vereinsleben
     content:
   - style: style6
-    picture: Vereinsbild.jpg
+    picture: images/Frühlingswolf.jpg
     href: images/Vereinsbild.jpg
     title: Kontakt
     content:
