@@ -9,13 +9,13 @@ tiles:
     title: Aktuelles
     content: 
   - style: style3
-    picture: Frühlingselse.jpg
-    href: images/Flohmarkt_Flyer_2024_1.PNG 
-    href: images/Flohmarkt_Flyer_2024_2.PNG
+    picture: Sommerwolf.jpg
+    href: images/Flohmarkt_Flyer_2024_1.png 
+    href: images/Flohmarkt_Flyer_2024_2.png
     title: Veranstaltungen
     content:
   - style: style4
-    picture: Vereinsbild.jpg
+    picture: Frühlingselse.jpg
     href: images/Vereinsbild.jpg
     title: Vereinsleben
     content:

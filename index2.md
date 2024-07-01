@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vereinsleben
+title: Aktuelles
 date: 28.06.2024
 ---
 
@@ -8,7 +8,3 @@ date: 28.06.2024
 
 <span class="image main"><img src="images/Vereinsbild.jpg" alt="" /></span>
 
-Möchtest du die Arbeit des Vereins gern unterstützen?
-Wir freuen uns über eine Spende, eine Fördermitgliedschaft, eine reguläre Mitgliedschaft oder einfach über deine Schaffenskraft. 
-
-Schreib uns gern eine Mail! Wir senden dir die Vereinsunterlagen zu.

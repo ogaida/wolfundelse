@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aktuelles
+title: Verastaltungen
 date: 24.06.2024
 ---
 
