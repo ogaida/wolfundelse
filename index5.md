@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vereinsleben
+title: Kontakt
 date: 24.06.2024
 ---
 
@@ -8,7 +8,7 @@ date: 24.06.2024
 
 <span class="image main"><img src="images/Vereinsbild.jpg" alt="" /></span>
 
-Möchtest du die Arbeit des Vereins gern unterstützen?
-Wir freuen uns über eine Spende, eine Fördermitgliedschaft, eine reguläre Mitgliedschaft oder einfach über deine Schaffenskraft. 
+IMPRESSUM:
+Verantwortliche gemäß §6 MDStV: Wolf & Else e.V. Mittelheide 102, 12555 Köpenick
 
-Schreib uns gern eine Mail! Wir senden dir die Vereinsunterlagen zu.
+Copyright @ 2024. Alle auf www.wolfundelse.de gespeicherten Texte, Bilder, Logos und sonstige Materialien unterliegen dem Copyright Wolf & Else e.V., sofern nicht anders angegeben. Die Inhalte dieser Website dürfen nicht ohne Erlaubnis kopiert, verändert oder verbreitet werden.
