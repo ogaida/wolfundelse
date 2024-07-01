@@ -6,8 +6,8 @@ tiles:
   - style: style2
     picture: Sommerelse.jpg
     href: images/Sommerelse.jpg
-    content:
     title: Aktuelles
+    content: 
   - style: style3
     picture: Vereinsbild.jpg
     href: images/Flohmarkt_Flyer_2024_1.PNG
