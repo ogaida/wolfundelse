@@ -20,7 +20,7 @@ tiles:
     title: Vereinsleben
     content:
   - style: style6
-    picture: images/Frühlingswolf.jpg
+    picture: Frühlingswolf.jpg
     href: images/Vereinsbild.jpg
     title: Kontakt
     content:
