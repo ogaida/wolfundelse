@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kontakt
----
 
 ## Schreib uns gern eine Mail an: 
 # wolfundelse@gmail.com
