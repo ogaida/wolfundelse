@@ -9,4 +9,3 @@ date: 24.06.2024
 <span class="image main"><img src="Sommerwolf.jpg" alt="" /></span>
 
 Hier kommt der Inhalt ... bald.
-Flohmarkt_Flyer_2024_1.PNG
