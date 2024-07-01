@@ -10,8 +10,8 @@ tiles:
     content: 
   - style: style3
     picture: Sommerwolf.jpg
-    href: images/Flohmarkt_Flyer_2024_1.png 
-    href: images/Flohmarkt_Flyer_2024_2.png
+    href: images/Flohmarkt_Flyer_2024_1.jpg 
+    href: images/Flohmarkt_Flyer_2024_2.jpg
     title: Veranstaltungen
     content:
   - style: style2
