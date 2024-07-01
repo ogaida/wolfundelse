@@ -11,7 +11,20 @@ date: 24.06.2024
 
 Hier kommt der Inhalt ... bald.
   - style: style2
-    picture: Sommerelse.jpg
+    picture: XXXX.jpg
     href: images/Sommerelse.jpg
-    title: Aktuelles
+    noch mehr Bilder!
+    title: Weihnachtszauber 2022
+    content: 
+  - style: style2
+    picture: XXXX.jpg
+    href: images/Sommerelse.jpg
+    noch mehr Bilder
+    title: Märchenrundgang 2023
+    content: 
+  - style: style2
+    picture: XXXX.jpg
+    href: images/Sommerelse.jpg
+    noch mehr Bilder
+    title: Weihnachtszauber 2023
     content: 
