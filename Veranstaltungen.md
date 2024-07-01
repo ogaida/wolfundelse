@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Veranstaltungen
 tiles:
   - style: style1
     picture: pic01.jpg
