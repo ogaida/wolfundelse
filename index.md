@@ -18,7 +18,7 @@ tiles:
     href: images/Vereinsbild.jpg
     title: Vereinsleben
     content:
-  - style: style7
+  - style: style8
     picture: Vereinsbild.jpg
     href: images/Vereinsbild.jpg
     title: Kontakt
