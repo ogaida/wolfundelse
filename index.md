@@ -5,8 +5,8 @@ date: 28.06.2024
 tiles:
   - style: style2
     picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
-    content:
+    href:
+    content: kommende Veranstaltung ist der Märchentag
     title: Aktuelles
   - style: style3
     picture: Vereinsbild.jpg
