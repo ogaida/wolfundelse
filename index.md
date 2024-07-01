@@ -4,7 +4,7 @@ title: Willkommen
 date: 28.06.2024
 tiles:
   - style: style2
-    picture: Vereinsbild.jpg
+    picture: Sommerelse.jpg
     href: images/Vereinsbild.jpg
     content:
     title: Aktuelles
