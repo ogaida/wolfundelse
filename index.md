@@ -5,7 +5,7 @@ date: 28.06.2024
 tiles:
   - style: style2
     picture: Sommerelse.jpg
-    href: images/Vereinsbild.jpg
+    href: images/Sommerelse.jpg
     content:
     title: Aktuelles
   - style: style3
