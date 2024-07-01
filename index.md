@@ -10,7 +10,7 @@ tiles:
     title: Aktuelles
   - style: style3
     picture: Vereinsbild.jpg
-    href: images/Vereinsbild.jpg
+    href: images/Flohmarkt_Flyer_2024_1.jpg
     title: Veranstaltungen
     content:
   - style: style4
