@@ -5,7 +5,7 @@ date: 28.06.2024
 tiles:
   - style: style2
     picture: Sommerelse.jpg
-    href: images/Willkommen auf der Internetseite von Wolf & Else e.V.
+    href: images/Sommerelse.jpg
     content:
     title: Aktuelles
   - style: style3
