@@ -9,7 +9,7 @@ tiles:
     content:
     title: Aktuelles
   - style: style3
-    picture: Frühlingswolf.jpg
+    picture: Frühlingselse.jpg
     href: images/Vereinsbild.jpg
     title: Veranstaltungen
     content:
