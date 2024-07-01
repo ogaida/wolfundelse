@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Kontakt
-date: 24.06.2024
+date:
 ---
 
-## Schreib uns gern eine Mail an wolfundelse@gmail.com
+## Schreib uns gern eine Mail an: 
+## wolfundelse@gmail.com
+
 
 IMPRESSUM:
 Verantwortliche gemäß §6 MDStV: Wolf & Else e.V. Mittelheide 102, 12555 Köpenick
