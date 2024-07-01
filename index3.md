@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Veranstaltungen
+title: Aktuelles
 date: 24.06.2024
 ---
 
 ## Was wir bisher gemacht haben
 
-<span class="image main"><img src="images/Vereinsbild.jpg" alt="" /></span>
+<span class="image main"><img src="Sommerwolf.jpg" alt="" /></span>
 
 Hier kommt der Inhalt ... bald.
+Flohmarkt_Flyer_2024_1.PNG
