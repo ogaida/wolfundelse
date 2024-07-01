@@ -28,7 +28,3 @@ tiles:
 
 
 ---
-
-## Unsere Seite
-
-Hier kommt der Inhalt....
