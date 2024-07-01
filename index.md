@@ -9,7 +9,7 @@ tiles:
     title: Aktuelles
     content: 
   - style: style3
-    picture: Vereinsbild.jpg
+    picture: Frühlingselse.jpg
     href: images/Flohmarkt_Flyer_2024_1.PNG 
     href: images/Flohmarkt_Flyer_2024_2.PNG
     title: Veranstaltungen
