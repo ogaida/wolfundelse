@@ -11,4 +11,4 @@ Wir freuen uns über eine Spende, eine Fördermitgliedschaft, eine reguläre Mit
 
 Schreib uns gern eine Mail! Wir senden dir die Vereinsunterlagen zu.
 
-#<span class="image main"><img src="images/Portrait2.jpg" alt="" /></span>
+<span class="image main"><img src="images/Panda2.jpg" alt="" /></span>
