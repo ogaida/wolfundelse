@@ -1,1 +1,1 @@
-# wolf und else e.V.
+# wolf und else
