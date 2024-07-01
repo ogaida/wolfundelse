@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Kontakt
-date:
 ---
 
 ## Schreib uns gern eine Mail an: 
-## wolfundelse@gmail.com
+# wolfundelse@gmail.com
+
 
 
 IMPRESSUM:
