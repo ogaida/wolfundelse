@@ -11,4 +11,4 @@ date: 28.06.2024
 Möchtest du die Arbeit des Vereins gern unterstützen?
 Wir freuen uns über eine Spende, eine Fördermitgliedschaft, eine reguläre Mitgliedschaft oder einfach über deine Schaffenskraft. 
 
-Dann schreibe uns gern eine Mail!
+Schreib uns gern eine Mail! Wir senden dir die Vereinsunterlagen zu.
