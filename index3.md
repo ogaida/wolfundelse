@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Verastaltungen
+title: Veranstaltungen
 date: 24.06.2024
 ---
 
