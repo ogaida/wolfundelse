@@ -14,7 +14,7 @@ tiles:
     href: images/Flohmarkt_Flyer_2024_2.png
     title: Veranstaltungen
     content:
-  - style: style4
+  - style: style2
     picture: Frühlingselse.jpg
     href: images/Vereinsbild.jpg
     title: Vereinsleben
