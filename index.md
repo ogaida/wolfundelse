@@ -7,12 +7,12 @@ tiles:
     picture: Sommerelse.jpg
     href: Aktuelles.html
     title: Aktuelles
-    content: Hier kommt ein Satz vorbei und sagt Dir guten Tag.
+    content: 
   - style: style3
     picture: Sommerwolf.jpg
     href: Veranstaltungen.html
     title: Veranstaltungen
-    content:
+    content: Herbst blaa, Weihnachts blaa
   - style: style2
     picture: Frühlingselse.jpg
     href: Vereinsleben.html
