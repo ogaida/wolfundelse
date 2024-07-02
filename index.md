@@ -5,7 +5,7 @@ date: 28.06.2024
 tiles:
   - style: style2
     picture: Sommerelse.jpg
-    href: images/Sommerelse.jpg
+    href: Aktuelles.html
     title: Aktuelles
     content: 
   - style: style3
