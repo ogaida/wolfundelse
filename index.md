@@ -12,7 +12,7 @@ tiles:
     picture: Sommerwolf.jpg
     href: Veranstaltungen.html
     title: Veranstaltungen
-    content: Herbst blaa, Weihnachts blaa
+    content: 
   - style: style2
     picture: Frühlingselse.jpg
     href: Vereinsleben.html
