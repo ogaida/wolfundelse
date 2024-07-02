@@ -5,6 +5,7 @@
 
         <section class="tiles">
             {% for tile in page.tiles %}
+            <div class="col-6">
             <article class="{{ tile.style }}">
                     <span class="image">
                         <img src="images/{{ tile.picture }}" alt="" />
@@ -16,6 +17,7 @@
                     </div>
                 </a>
             </article>
+            </div>
             {% endfor %}
         </section>
         <br><br>
