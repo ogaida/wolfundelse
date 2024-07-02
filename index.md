@@ -7,20 +7,20 @@ tiles:
     picture: Sommerelse.jpg
     href: Aktuelles.html
     title: Aktuelles
-    content: 
+    content: Hier kommt ein Satz vorbei und sagt Dir guten Tag.
   - style: style3
     picture: Sommerwolf.jpg
-    href: images/Flohmarkt_Flyer_2024_1.jpg 
+    href: Veranstaltungen.html
     title: Veranstaltungen
     content:
   - style: style2
     picture: Frühlingselse.jpg
-    href: images/Vereinsbild.jpg
+    href: Vereinsleben.html
     title: Vereinsleben
     content:
   - style: style3
     picture: Frühlingswolf.jpg
-    href: images/Vereinsbild.jpg
+    href: Kontakt.html
     title: Kontakt
     content:
 
