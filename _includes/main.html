@@ -6,11 +6,9 @@
         <section class="tiles">
             {% for tile in page.tiles %}
             <article class="{{ tile.style }}">
-                <div class="col-6">
                     <span class="image">
                         <img src="images/{{ tile.picture }}" alt="" />
                     </span>
-                </div>
                 <a href="{{ tile.href }}">
                     <h2>{{ tile.title }}</h2>
                     <div class="content">
