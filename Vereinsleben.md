@@ -5,7 +5,7 @@ date: 24.06.2024
 ---
 ## Der Verein Wolf & Else e.V.
 
-Unsere Vision als gemeinnütziger Verein ist es, im Köpenicker Märchenviertel und der näheren Umgebung, bürgerschaftliches Engagement zu fördern, die Menschen im Viertel zusammenzubringen, ansässige Künstler:Innen und Kulturschaffende zu unterstützen. Das wollen wir durch gemeinsame Aktionen und Feste erreichen. 
+Unsere Vision als gemeinnütziger Verein ist es, im Köpenicker Märchenviertel und der näheren Umgebung, bürgerschaftliches Engagement zu fördern, die Menschen im Viertel zusammenzubringen sowie ansässige Künstler:Innen und Kulturschaffende zu unterstützen. Das wollen wir durch gemeinsame Aktionen und Feste erreichen. 
 Unser Ziel ist es Möglichkeiten, Orte und Räume für mehr Begegnung, Kennlernmomente und Miteinander zu schaffen.
 
 Möchtest du die Arbeit des Vereins gern unterstützen?
