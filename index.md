@@ -14,7 +14,7 @@ tiles:
     title: Weihnachtszauber
     content: 
   - style: style2
-    picture: Sommerelse.jpg
+    picture: Wolf.JPG
     href: Märchentag.html
     title: Märchentag
     content: 
