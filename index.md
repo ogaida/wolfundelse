@@ -9,7 +9,7 @@ tiles:
     title: Aktuelles
     content: 
   - style: style3
-    picture: Weihnachtsmarkt.JPG
+    picture: WeihnachtJPG
     href: Weihnachtszauber.html
     title: Weihnachtszauber
     content: 
