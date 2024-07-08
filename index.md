@@ -18,12 +18,12 @@ tiles:
     href: Märchentag.html
     title: Märchentag
     content: 
-  - style: style2
+  - style: style3
     picture: Frühlingselse.jpg
     href: Vereinsleben.html
     title: Vereinsleben
     content:
-  - style: style3
+  - style: style2
     picture: Frühlingswolf.jpg
     href: Kontakt.html
     title: Kontakt
