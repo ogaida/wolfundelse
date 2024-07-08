@@ -4,7 +4,6 @@ title: Märchentag
 date: 24.06.2024
 ---
 
-## Was wir bisher gemacht haben
 
 ## 2. Märchentag
 
