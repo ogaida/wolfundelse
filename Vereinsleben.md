@@ -18,7 +18,7 @@ Schreib uns gern eine Mail! Wir senden dir die Vereinsunterlagen zu.
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-4"><span class="image fit"><img src="images/Panda2.jpg" alt="" /></span></div>
+      <div class="col-5"><span class="image fit"><img src="images/Panda2.jpg" alt="" /></span></div>
     
     </div>
   </div>
