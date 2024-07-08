@@ -14,6 +14,11 @@ tiles:
     title: Weihnachtszauber
     content: 
   - style: style2
+    picture: Sommerelse.jpg
+    href: Märchentag.html
+    title: Märchentag
+    content: 
+  - style: style2
     picture: Frühlingselse.jpg
     href: Vereinsleben.html
     title: Vereinsleben
