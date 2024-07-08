@@ -38,5 +38,5 @@ date: 24.06.2024
       <div class="col-6"><span class="image fit"><img src="images/.JPG" alt="" /></span></div>
       <div class="col-6"><span class="image fit"><img src="images/.JPG" alt="" /></span></div>
     
-  </div>
+   </div>
 </section>
