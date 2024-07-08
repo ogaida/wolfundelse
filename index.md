@@ -10,8 +10,8 @@ tiles:
     content: 
   - style: style3
     picture: Sommerwolf.jpg
-    href: Veranstaltungen.html
-    title: Veranstaltungen
+    href: Weihnachtszauber.html
+    title: Weihnachtszauber
     content: 
   - style: style2
     picture: Frühlingselse.jpg
