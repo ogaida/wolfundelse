@@ -28,6 +28,9 @@ date: 24.06.2024
   <div class="box alt">
     <div class="row gtr-uniform">
       <div class="col-7"><span class="image fit"><img src="images/Maerchenrundgang.jpg" alt="" /></span></div>
+      <section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
       <div class="col-4"><span class="image fit"><img src="images/Maerch1.jpg" alt="" /></span></div>
       <div class="col-4"><span class="image fit"><img src="images/Maerch2.jpg" alt="" /></span></div>  
       <div class="col-4"><span class="image fit"><img src="images/Maerch3.jpg" alt="" /></span></div>
