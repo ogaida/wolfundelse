@@ -10,14 +10,12 @@ date: 24.06.2024
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-6"><span class="image fit"><img src="images/Sommerelse.jpg" alt="" /></span></div>
-      <div class="col-6"><span class="image fit"><img src="images/Sommerelse.jpg" alt="" /></span></div>  
-      <div class="col-6"><span class="image fit"><img src="images/Sommerelse.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+      <div class="col-6"><span class="image fit"><img src="images/WZ2Flyer.jpg" alt="" /></span></div>
+      <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>  
+      <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
