@@ -36,7 +36,7 @@ date: 24.06.2024
       <div class="col-4"><span class="image fit"><img src="images/Maech6.jpg" alt="" /></span></div>
       <div class="col-4"><span class="image fit"><img src="images/Maerch7.jpg" alt="" /></span></div>
       <div class="col-4"><span class="image fit"><img src="images/Maerch8.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/Maerch9.jpg" alt="" /></span></div>
+      <div class="col-3"><span class="image fit"><img src="images/Maerch9.jpg" alt="" /></span></div>
       <div class="col-4"><span class="image fit"><img src="images/Maerch10.jpg" alt="" /></span></div>
       <div class="col-4"><span class="image fit"><img src="images/Maerch11.jpg" alt="" /></span></div>
     </div>
