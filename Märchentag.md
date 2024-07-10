@@ -24,7 +24,7 @@ date: 24.06.2024
 
 ## 1. Märchentag
 ### Das Viertel war auf den Beinen! 
-### Es wurde das Märchen, "Zu den sieben Raben" gelesen, "Dornröschen" von der Märchenelfe gespielt und Frau Holle hat ihre Betten ausgeschüttelt. Natürlich fand das alles in der Straße mit dem entsprchendem Namen statt.
+### Es wurde das Märchen, "Zu den sieben Raben" gelesen, "Dornröschen" von der Märchenelfe gespielt und Frau Holle hat ihre Betten ausgeschüttelt. Natürlich fand das alles in der Straße mit dem entsprchenden Namen statt.
 
 <section>
   <div class="box alt">
