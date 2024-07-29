@@ -12,12 +12,6 @@ date: 24.06.2024
     <div class="row gtr-uniform">
       <div class="col-8"><span class="image fit"><img src="images/MaerchenFlohmarkt.jpg" alt="" /></span></div>
       <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>  
-      <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
