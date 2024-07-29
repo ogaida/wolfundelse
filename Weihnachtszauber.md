@@ -11,11 +11,14 @@ date: 24.06.2024
   <div class="box alt">
     <div class="row gtr-uniform">
       <div class="col-8"><span class="image fit"><img src="images/2.Weihnachtszauber_jpg.jpg" alt="" /></span></div>
-      <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>  
-      <div class="col-6"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
-      <div class="col-4"><span class="image fit"><img src="images/.jpg" alt="" /></span></div>
+      <div class="col-6"><span class="image fit"><img src="images/WZ2_1.jpg" alt="" /></span></div>  
+      <div class="col-6"><span class="image fit"><img src="images/WZ2_2.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_3.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_4.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_5.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_6.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_7.jpg" alt="" /></span></div>
+      <div class="col-4"><span class="image fit"><img src="images/WZ2_8.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
