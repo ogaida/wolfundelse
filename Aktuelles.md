@@ -9,7 +9,7 @@ date: 28.06.2024
 ## Wir organisieren ehrenamtlich, gemeinsam mit den Bewohneren unseres Viertels, diesen kleinen künstlerisch-kulturellen Weihnachtsmarkt. 
 ## Hier findet ihr mehr als 25 wunderschöne handwerkliche Stände, ein abwechslungsreiches Bühnenprogramm und ein Bastelzelt für Kinder.
 ## Natürlich gibt es auch Kulinarisches: von Waffeln und Kuchen, über Glühwein und Bratwurst ist für Jede*n was dabei!
-## Wir freuen uns auf euch!
+# Wir freuen uns auf euch!
 
 
 
