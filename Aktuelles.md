@@ -9,9 +9,11 @@ date: 28.06.2024
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-5"><span class="image fit"><img src="images/WZ3.jpg" alt=""/></span></div>
+      <div class="col-5"><span class="image fit"><img src="images/WZ2_3.jpg" alt="" /></span></div>
+    
     </div>
   </div>
+</section>
 
 
  Wir organisieren ehrenamtlich, gemeinsam mit den Bewohneren unseres Viertels, diesen kleinen künstlerisch-kulturellen Weihnachtsmarkt. 
