@@ -6,7 +6,12 @@ date: 28.06.2024
 ## Bald ist es wieder soweit...
 # 3.Weihnachtszauber auf dem Essenplatz in 12555 Berlin-Köpenick am 07.12.2024 in der Zeit von 12-19.30 Uhr
 
-<div class="col-12"><span class="image fit"><img src="images/WZ3.jpg" alt="" /></span></div>
+<section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
+      <div class="col-5"><span class="image fit"><img src="images/WZ3.jpg" alt="" /></span></div>
+    </div>
+  </div>
 
 
  Wir organisieren ehrenamtlich, gemeinsam mit den Bewohneren unseres Viertels, diesen kleinen künstlerisch-kulturellen Weihnachtsmarkt. 
