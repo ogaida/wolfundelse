@@ -20,6 +20,5 @@ date: 28.06.2024
  Natürlich gibt es auch Kulinarisches: von Waffeln und Kuchen, über Glühwein und Bratwurst ist für Jede*n was dabei!
  Wir freuen uns auf euch!
 
-weihnachtsmarkt-24.jpg
 
 
