@@ -9,7 +9,7 @@ date: 28.06.2024
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-5"><span class="image fit"><img src="images/Weihnacht.jpg" alt="" /></span></div>
+      <div class="col-5"><span class="image fit"><img src="images/weihnachtsmarkt-24.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
@@ -20,5 +20,6 @@ date: 28.06.2024
  Natürlich gibt es auch Kulinarisches: von Waffeln und Kuchen, über Glühwein und Bratwurst ist für Jede*n was dabei!
  Wir freuen uns auf euch!
 
+weihnachtsmarkt-24.jpg
 
 
