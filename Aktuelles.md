@@ -9,7 +9,7 @@ date: 28.06.2024
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-5"><span class="image fit"><img src="images/weihnachtsmarkt-24.jpg" alt="" /></span></div>
+      <div class="col-12"><span class="image fit"><img src="images/weihnachtsmarkt-24.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
