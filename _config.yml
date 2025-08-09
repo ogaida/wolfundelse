@@ -11,4 +11,4 @@ port: 5000
 
 ## new release:
 # git tag release-name
-# git push --tags
+#   
