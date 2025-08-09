@@ -8,3 +8,7 @@ port: 5000
 # image-handline inspired by https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
 
 # start with : bundle exec jekyll serve  --open-url --livereload
+
+## new release:
+# git tag release-name
+# git push --tags
