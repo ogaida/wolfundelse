@@ -3,8 +3,8 @@ layout: default
 title: Aktuelles
 date: 28.06.2024
 ---
-## Flohmarkt in der Dornröschenstraße
-# Am 21.09.2025 öffenen einige Anwohner*innen ihre Gartentore.
+## 4. Weihnachtszauber
+# 06.12.2025 wie immer auf dem Essenplatz!
 
 <section>
   <div class="box alt">
