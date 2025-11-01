@@ -3,8 +3,12 @@ layout: default
 title: Aktuelles
 date: 28.09.2025
 ---
-## 4. Weihnachtszauber!!
-# 06.12.2025 wie immer auf dem Essenplatz!
+
+## 5. Weihnachtszauber!
+# 06.12.2025 auf dem Essenplatz
+
+## 3. Weihnachtszauber!!
+# 06.12.2024 wie immer auf dem Essenplatz!
 
 <section>
   <div class="box alt">
