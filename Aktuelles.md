@@ -20,7 +20,7 @@ date: 28.09.2025
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-3"><span class="image fit"><img src="images/B_SEN_SBW_Logo_DE_V_P_1C.png" alt="" /></span><div>
+      <div class="col-3"><span class="image fit"><img src="images/B_SEN_SBW_Logo_DE_V_P_1C.png" alt="" /></span></div>
     </div>
   </div>
 </section>
