@@ -5,6 +5,16 @@ date: 06.06.2024
 ---
 
 
+## 3. Weihnachtszauber
+
+<section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
+      <div class="col-8"><span class="image fit"><img src="images/weihnachtsmarkt-24.jpg" alt="" /></span></div>
+    </div>
+  </div>
+</section>
+
 ## 2. Weihnachtszauber
 
 <section>

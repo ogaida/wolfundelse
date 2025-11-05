@@ -4,16 +4,13 @@ title: Aktuelles
 date: 28.09.2025
 ---
 
-## 5. Weihnachtszauber!
+## 4. Weihnachtszauber!
 # 06.12.2025 auf dem Essenplatz
-
-## 3. Weihnachtszauber!!
-# 06.12.2024 wie immer auf dem Essenplatz!
 
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-12"><span class="image fit"><img src="images/weihnachtsmarkt-24.jpg" alt="" /></span></div>
+      <div class="col-12"><span class="image fit"><img src="images/weihnachtsmarkt-25.jpg" alt="" /></span></div>
     </div>
   </div>
 </section>
