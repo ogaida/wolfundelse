@@ -5,7 +5,7 @@ date: 06.06.2024
 ---
 
 ## 4. Weihnachtszauber
-# 06.12.2025 auf dem Essenplatz
+### 06.12.2025 auf dem Essenplatz
 
 <section>
   <div class="box alt">
