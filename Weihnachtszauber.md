@@ -4,6 +4,16 @@ title: Weihnachtszauber
 date: 06.06.2024
 ---
 
+## 4. Weihnachtszauber
+# 06.12.2025 auf dem Essenplatz
+
+<section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
+      <div class="col-8"><span class="image fit"><img src="images/weihnachtsmarkt-25.jpg" alt="" /></span></div>
+    </div>
+  </div>
+</section>
 
 ## 3. Weihnachtszauber
 
