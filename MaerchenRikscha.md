@@ -57,4 +57,4 @@ Treptow-Köpenick von Berlin im Rahmen der Kiezkassen 2025 gefördert.
   </div>
 </section>
 
-[www.freepik.com](www.freepik.com)
+[www.freepik.com](https://www.freepik.com)
