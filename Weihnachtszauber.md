@@ -17,21 +17,21 @@ date: 06.06.2024
 
 Unsere gewerblichen Verkäufer*innen: 
 
-- [www.abramarin.com](www.abramarin.com)
-- [www.instagram.com/create_resinart](www.instagram.com/create_resinart)
-- [www.stielgut.de](www.stielgut.de)
-- [kindertagesstaetten-suedost.de](kindertagesstaetten-suedost.de)
-- [www.jelaengerjelieber.de](www.jelaengerjelieber.de)
+- [www.abramarin.com](https://www.abramarin.com)
+- [www.instagram.com/create_resinart](https://www.instagram.com/create_resinart)
+- [www.stielgut.de](https://www.stielgut.de)
+- [kindertagesstaetten-suedost.de](https://kindertagesstaetten-suedost.de)
+- [www.jelaengerjelieber.de](https://www.jelaengerjelieber.de)
 - [weltladenkoepenick.wixsite.com/home](https://weltladenkoepenick.wixsite.com/home)
-- [www.multi-puppen.de](www.multi-puppen.de)
+- [www.multi-puppen.de](https://www.multi-puppen.de)
 - [alexsa-verlag.de](https://alexsa-verlag.de)
-- [www.deinwindsack.de](www.deinwindsack.de)
-- [bambislullaby.blogspot.com](bambislullaby.blogspot.com)
-- [www.jolejo.de](www.jolejo.de)
-- [www.wherethefoxeslive.com](www.wherethefoxeslive.com)
-- [www.hamadouche.com](www.hamadouche.com)
-- [www.rabenhaus.de/schuelerclub](www.rabenhaus.de/schuelerclub)
-- [www.sela-vintage.de](www.sela-vintage.de)
+- [www.deinwindsack.de](https://www.deinwindsack.de)
+- [bambislullaby.blogspot.com](https://bambislullaby.blogspot.com)
+- [www.jolejo.de](https://www.jolejo.de)
+- [www.wherethefoxeslive.com](https://www.wherethefoxeslive.com)
+- [www.hamadouche.com](https://www.hamadouche.com)
+- [www.rabenhaus.de/schuelerclub](https://www.rabenhaus.de/schuelerclub)
+- [www.sela-vintage.de](https://www.sela-vintage.de)
 
 
 ## 3. Weihnachtszauber
