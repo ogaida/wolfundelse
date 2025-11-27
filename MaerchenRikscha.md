@@ -7,7 +7,7 @@ date: 27.11.2025
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-8"><span class="image fit"><img src="images/rikscha.jpg" alt="Bild einer Rikscha" /></span></div>
+      <div class="col-8"><span class="image fit"><img src="images/rikscha.jpg" alt="https://de.freepik.com/vektoren-kostenlos/handgezeichnete-indische-lifestyle-illustration_31195654.html" /></span></div>
     </div>
   </div>
 </section>
@@ -56,3 +56,5 @@ Treptow-Köpenick von Berlin im Rahmen der Kiezkassen 2025 gefördert.
     </div>
   </div>
 </section>
+
+[www.freepik.com](www.freepik.com)
