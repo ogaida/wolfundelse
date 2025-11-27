@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MärchenRikscha
+title: Märchen-Rikscha
 date: 27.11.2025
 ---
 
@@ -32,7 +32,7 @@ Mittelheide, Stellingdamm, Schmausstraße & Co.
 
 Anwohnende, die am Fahren, am Gefahrenwerden oder am
 technisch-organisatorischen Mitwirken interessiert sind, können sich unter
-Angabe ihrer Kontaktdaten an koeperikscha@tuta.io wenden.
+Angabe ihrer Kontaktdaten an [koeperikscha@tuta.io](mailto://koeperikscha@tuta.io) wenden.
 
 Wolf & Else unterstützten die Anschaffung des modernen
 Personentransportrades als Mitantragsteller bei der Bürgerstiftung
