@@ -40,3 +40,19 @@ Treptow-Köpenick.
 Weitere Mittelgeber der Rikscha sind der Gebietsfonds Ehemaliger
 Güterbahnhof Köpenick. Außerdem wird das Projekt durch das Bezirksamt
 Treptow-Köpenick von Berlin im Rahmen der Kiezkassen 2025 gefördert.
+
+## Mit freundlicher Unterstützung von:
+
+<section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
+      <div class="col-3"><span class="image fit"><img src="images/Buergerstiftung.jpg" alt="" /></span></div>
+    </div>
+  </div>
+<section>
+  <div class="box alt">
+    <div class="row gtr-uniform">
+      <div class="col-3"><span class="image fit"><img src="images/Logo_Bezirk_Wappen_breit.png" alt="" /></span></div>
+    </div>
+  </div>
+</section>
