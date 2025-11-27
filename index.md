@@ -14,7 +14,7 @@ tiles:
     title: Weihnachtszauber
     content: 
   - style: style2
-    picture: Wolf1.JPG
+    picture: rikscha.jpg
     href: MaerchenRikscha.html
     title: MärchenRikscha
     content: 
