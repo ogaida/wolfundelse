@@ -15,15 +15,20 @@ tiles:
     content: 
   - style: style2
     picture: Wolf1.JPG
+    href: MaerchenRikscha.html
+    title: MärchenRikscha
+    content: 
+  - style: style3
+    picture: Wolf1.JPG
     href: Märchentag.html
     title: Märchentag
     content: 
-  - style: style3
+  - style: style2
     picture: Frühlingselse.jpg
     href: Vereinsleben.html
     title: Vereinsleben
     content:
-  - style: style2
+  - style: style3
     picture: Frühlingswolf.jpg
     href: Kontakt.html
     title: Kontakt
