@@ -46,13 +46,13 @@ Treptow-Köpenick von Berlin im Rahmen der Kiezkassen 2025 gefördert.
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-3"><span class="image fit"><img src="images/Buergerstiftung.jpg" alt="" /></span></div>
+      <div class="col-8"><span class="image fit"><img src="images/Buergerstiftung.jpg" alt="" /></span></div>
     </div>
   </div>
 <section>
   <div class="box alt">
     <div class="row gtr-uniform">
-      <div class="col-3"><span class="image fit"><img src="images/Logo_Bezirk_Wappen_breit.png" alt="" /></span></div>
+      <div class="col-8"><span class="image fit"><img src="images/Logo_Bezirk_Wappen_breit.png" alt="" /></span></div>
     </div>
   </div>
 </section>
